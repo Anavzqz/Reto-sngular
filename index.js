@@ -16,4 +16,3 @@ btn.addEventListener('click', event => {
     paint.setAttribute('class', 'style2');
 });
 
-//btn.addEventListener('click', 'styleChange');

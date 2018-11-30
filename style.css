@@ -1,6 +1,38 @@
 .title {
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 3em;
+    background-color: #0F1C2C;
+    color: white;
+    text-align: center;
+}
+#textToChange {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2em;
+    width: 20em;
+    height: 3em;
+    border-radius: 1em;
+    border-color: #0F1C2C;
+    text-align: center;
+    align-items: center;
+}
+#btn {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    width: 10em;
+    height: 3em;
+    border-radius: 1em;
+    background-color: white;
+    color: #0F1C2C;
+    border-color: #0F1C2C;
+    align-items: center;
+}
+.paintText {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    color: #0F1C2C;
 }
 .style2 {
-    color: pink;
+    font-family: 'Pacifico', cursive;
+    color: #22AFCF;
+    font-size: 1.5em;
 }
