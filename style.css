@@ -5,6 +5,10 @@
     color: white;
     text-align: center;
 }
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+}
 #textToChange {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.2em;
@@ -13,7 +17,7 @@
     border-radius: 1em;
     border-color: #0F1C2C;
     text-align: center;
-    align-items: center;
+    
 }
 #btn {
     font-family: 'Source Sans Pro', sans-serif;
@@ -30,9 +34,11 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
     color: #0F1C2C;
+    margin: 2%;
 }
 .style2 {
     font-family: 'Pacifico', cursive;
     color: #22AFCF;
-    font-size: 1.5em;
+    font-size: 2em;
+    margin: 2%;
 }
